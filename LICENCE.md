@@ -1,3 +1,6 @@
+Official Legal Notice: As a homeless individual, I cannot receive postal mail. Joshua Mandryk, founder of Open Source Terracore, can ONLY be reached for official legal or licensing correspondence via the following channel: [Your Email Address]. Any legal documents, notices, or official correspondence sent to any postal address will be considered deliberately sent to an invalid location and an act of bad faith intended to prevent a response."
+
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
