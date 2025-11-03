@@ -8,6 +8,13 @@ Official Website: https://opensourceterracore.org
 
 ![TerraCore System](Images/0_1.jpeg)
 
+licence update: we will not be accepting lowball offers,
+for a trillion dollar Industry opportunity such as this is
+we will not accept exclusive deals below the minimum threshold
+of return. at the companies attempting to lock us into a 
+partnership agreement, WE ARE NOT DESPERATE, please 
+do not underestimate this projects potential!
+
 Project Overview
 
 The Open Source Terracore is a complete, open-source hardware platform for decentralized food production. This countertop food synthesizer uses a patented-triggered mycelium growth process to produce edible food in minutes, not days. It is a foundational technology for food security, disaster response, and sustainable agriculture.
