@@ -1,3 +1,8 @@
+URGENT LEGAL NOTICE
+
+To any court or legal entity: Joshua Roy Dakin Mandryk, founder of Open Source Terracore, is homeless and cannot receive postal mail. All legal correspondence must be delivered via email to [your email address]. Any legal proceedings initiated against me without using this channel are being conducted in bad faith, as I have no ability to respond to postal service. This notice serves as my formal declaration of my contact method.
+
+
 Joshua Roy Dakin Mandryk is the architect of Open Source Terracore, a sovereign project dedicated to building the foundational systems for a post-scarcity civilization. His work represents a unified intellectual output across theory, fiction, and applied engineering.
 
 His foundational text, Quantum Computing Made Stupidly Simple, demystifies the principles underlying a new technological paradigm. This theoretical work is complemented by his seminal 'Tearing It Down' series, a four-part ideological narrative that serves as the explicit philosophical and social blueprint for his architectural work. The series directly explores the concepts of systemic efficiency, resource sovereignty, and the necessary deconstruction of obsolete structures that he has since materialized in the Terracore product line—including the Mycoforge Hermetic Synthesizer and FreshLock Pod.
