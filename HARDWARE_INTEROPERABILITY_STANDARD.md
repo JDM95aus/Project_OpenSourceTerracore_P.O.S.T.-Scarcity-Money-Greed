@@ -157,6 +157,13 @@ User-Guaranteed Rights:
 · Right to manufacture replacement parts
 · Right to interface third-party components
 
+5.4 Patent Resistance Certification
+Any device implementing this standard may display the "OHS-PRC Certified" (Open Hardware Synthesizer - Patent Resistant Certified) mark, indicating it is designed to be legally immune to the following specific patent threats:
+
+· Immunity to Cartridge DRM Patents: Compliance with Section 5.1 (DRM Prevention) provides a legal design-around for patents held by entities like PepsiCo on proprietary cartridge authentication (referencing patent classes 700/300, 426/231).
+· Immunity to Interface Patents: The universal mechanical interface (Section 1.1) creates prior art for any proprietary physical cartridge design.
+· Legal Defense Fund: The Open Hand Society maintains a legal fund to defend any certified manufacturer against patent infringement claims, provided they adhere strictly to this standard.
+
 6. Certification & Compliance
 
 6.1 Open Hardware Certification
