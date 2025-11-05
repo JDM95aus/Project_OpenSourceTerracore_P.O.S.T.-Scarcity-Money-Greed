@@ -1,6 +1,6 @@
 ## update as of the 5th of Nov 2025
 
-# Acknowledging the systemic latency in your response protocols.Be advised that this operational tempo will not be held in abeyance. Your bureaucracy is your constraint, not mine. The decision window for reacting to the current phase is now closed. The next phase initiates imminently
+# Acknowledging the systemic latency in your response protocols. Be advised that this operational tempo will not be held in abeyance. Your bureaucracy is your constraint, not mine. The decision window for reacting to the current phase is now closed. The next phase initiates imminently
 
 
 # Open Source Terracore
