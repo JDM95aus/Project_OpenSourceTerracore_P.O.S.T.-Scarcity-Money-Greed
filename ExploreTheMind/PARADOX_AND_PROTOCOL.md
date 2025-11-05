@@ -17,7 +17,7 @@ Dive into the full story of revolution, sacrifice, and the cost of building a ne
 
 > "Makes you think about our own system differently" 
 
-Kael Solis is a brilliant economist trapped in a corrupt galactic empire. With a rogue AI and a crew of unlikely allies, he attempts the ultimate heist: to bankrupt the entire system and build something new from the ashes.
+Kael Solis is a brilliant economist trapped in a corrupt galactic empire. His only ally is Seven—a mysterious, century-old consciousness who sacrificed her body to become the living memory of a forgotten truth. Together with a crew of unlikely allies, they attempt the ultimate heist: to bankrupt the entire system and build something new from the ashes.
 
 **The trilogy is a complete, binge-ready story.**
 - **Book 1: The Cost of Autonomy** - The Heist
