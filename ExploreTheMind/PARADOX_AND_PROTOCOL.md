@@ -4,6 +4,18 @@
 
 **What if you had to bankrupt the galaxy to save it?**
 
+### Ready to Start the Journey?
+
+**The Complete Trilogy Experience**
+Dive into the full story of revolution, sacrifice, and the cost of building a new world. Perfect for fans of:
+- Complex economic systems & heist plots
+- Rogue AIs and unconventional allies  
+- Philosophical sci-fi like *The Foundation* or *The Moon is a Harsh Mistress*
+
+**Why Readers Love This Series** From First Review's 
+> "The most realistic take on economic revolution I've ever read" 
+> "Makes you think about our own system differently" 
+
 Kael Solis is a brilliant economist trapped in a corrupt galactic empire. With a rogue AI and a crew of unlikely allies, he attempts the ultimate heist: to bankrupt the entire system and build something new from the ashes.
 
 **The trilogy is a complete, binge-ready story.**
