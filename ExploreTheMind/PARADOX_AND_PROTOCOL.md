@@ -14,6 +14,7 @@ Dive into the full story of revolution, sacrifice, and the cost of building a ne
 
 **Why Readers Love This Series** From First Review's 
 > "The most realistic take on economic revolution I've ever read" 
+
 > "Makes you think about our own system differently" 
 
 Kael Solis is a brilliant economist trapped in a corrupt galactic empire. With a rogue AI and a crew of unlikely allies, he attempts the ultimate heist: to bankrupt the entire system and build something new from the ashes.
