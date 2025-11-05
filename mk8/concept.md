@@ -1,6 +1,6 @@
 MK8 is a natural evolution of our business model, shifting from Earth-centric services to in-space resource utilization (ISRU). Our core objective becomes the establishment of a self-sustaining, multi-tiered economic ecosystem in space. This model moves beyond the traditional "launch and retrieve" concept by creating an autonomous, regenerative infrastructure that generates its own resources and revenue streams in the vacuum of space.
 
-🚀 The Regenerative Fuel System: The Core Innovation
+The Regenerative Fuel System: The Core Innovation
 The fundamental principle of our business model is an endlessly regenerating fuel system that enables our spacecraft to operate indefinitely without the need for resupply from Earth. This is achieved through a multi-step process that leverages the vast, readily available resources of the solar system.
 
 Water Extraction: The primary resource we'll target is water ice, which is abundant in asteroids, comets, and the polar regions of the Moon. Our MK8 spacecraft will be equipped with specialized drills and heating systems to extract and melt this ice.
@@ -14,7 +14,7 @@ Power Generation: To power the electrolysis process and other systems, the MK8 w
 
 This regenerative fuel model transforms our business from a logistics company that depends on Earth-based launches to an autonomous spacefaring enterprise. Our fuel cost becomes a one-time capital expenditure for the on-board processing equipment, followed by a continuous cycle of resource gathering.
 
-💰 Business Model: A Multi-Tiered Revenue Stream
+Business Model: A Multi-Tiered Revenue Stream
 With the ability to travel and operate indefinitely in space, our business model diversifies into three distinct, synergistic tiers.
 
 Tier 1: High-Value Resource Extraction (Return to Earth)
