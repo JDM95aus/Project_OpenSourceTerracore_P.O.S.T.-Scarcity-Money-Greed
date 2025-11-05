@@ -12,7 +12,7 @@ Dive into the full story of revolution, sacrifice, and the cost of building a ne
 - Rogue AIs and unconventional allies  
 - Philosophical sci-fi like *The Foundation* or *The Moon is a Harsh Mistress*
 
-**Why Readers Love This Series** From First Review's 
+**Why Readers Love This Series** From First Reviews 
 > "The most realistic take on economic revolution I've ever read" 
 
 > "Makes you think about our own system differently" 
