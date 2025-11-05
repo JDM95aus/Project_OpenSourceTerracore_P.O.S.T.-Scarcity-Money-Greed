@@ -18,7 +18,7 @@ If your organization has a foundational R&D problem—a genuine dead-end in phys
 
 **Outcomes:**
 - **I see no path:** The assessment ends. You have lost nothing, and your secrets remain protected.
-- **I see a clear solution:** saving you massive R&D resource costs and potentially unlocking new development paths, if **you like my work we can then discuss a possible future advisement position. 
+- **I see a clear solution:** saving you massive R&D resource costs and potentially unlocking new development paths, if you like my work we can then discuss a possible future advisement position. 
 
 This is a trial of capability. The 20,000+ lines of architecture in this repository, built alone, are my credentials.
 
