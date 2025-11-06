@@ -8,7 +8,8 @@ Welcome to the project repository for Project OpenSourceTerraCore (P.O.S.T) Food
 
 A future where life's essentials are not commodities, but accessible utilities. The TerraCore is a foundational step toward that future—a modular, open-hardware platform designed for local production and global resilience.
 
-## 🔧 The Technology
+## 🔧 The Technology [P.O.S.T.-FoodSynthesizer](./P_0_S_T_FoodSynthesizer.md)
+[Validation](./Validation.md)
 
 The P.O.S.T Food Synthesizer integrates three core systems into a single, cohesive unit:
 
