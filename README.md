@@ -53,6 +53,8 @@ The theoretical work is complete. The practical work begins now. This is a call 
 
 **Let's build it together.**
 
+## DIRECT LINKS:
+
 [List of Negatively Impacted Industries](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/CorperatePlaybook/WhyThisProjectWillBeShutDown.md)
 
 [Company Assistance - Free R&D Solutions](https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed/blob/main/Challenge.md)
@@ -61,4 +63,4 @@ The theoretical work is complete. The practical work begins now. This is a call 
 
 
 
-— Joshua Roy Dakin Mandryk, Systems Architect
+— *Joshua Roy Dakin Mandryk, Systems Architect*
