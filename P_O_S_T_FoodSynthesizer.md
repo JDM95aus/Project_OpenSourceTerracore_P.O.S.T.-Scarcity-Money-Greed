@@ -8,7 +8,7 @@ it was once a theory you mocked, denied and even refused to respond to, but now 
 # The blueprint is the entry ticket. The race is on. Are you building?
 
 
-## Food Output Examples
+### Food Output Examples
 
 # rice and fresh salad
 ![Commercial Model 1 - Complete Meal](./Images/Commercial-model1.png)
