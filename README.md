@@ -20,7 +20,7 @@ This is not just a machine; it's a **new industrial paradigm**.
 
 ## 📖 Explore the Blueprint
 
-This repository contains the complete, manufacturing-ready blueprint for the TerraCore TC-1:
+This repository contains the complete, manufacturing-ready blueprint for the P.O.S.T Food Synthesizer:
 - **Full System Schematics**
 - **Firmware & Control Software**
 - **Assembly Guides**
