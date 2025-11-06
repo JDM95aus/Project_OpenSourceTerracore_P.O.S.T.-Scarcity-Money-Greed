@@ -90,7 +90,7 @@ This is not a cost we must accept. It is a bill we can present, and a debt we ca
 
 ### The Arithmetic of Malice
 
-# *Some may call this ignorance. That is a charitable lie.*
+*Some may call this ignorance. That is a charitable lie.*
 
 The executives, lobbyists, and policymakers blocking this future are not stupid. They are not unaware. They have teams of analysts who have shown them these exact blueprints.
 
@@ -100,7 +100,7 @@ Their inaction is not a failure to understand the technology. It is a clear, cal
 · Every million spent on lobbying against sustainable solutions is a term in that calculation.
 · Every life lost to hunger is a decimal point they have rounded down to zero.
 
-# *This is not ignorance. It is a cold, precise, and profitable arithmetic. It is the math of malice.*
+*This is not ignorance. It is a cold, precise, and profitable arithmetic. It is the math of malice.*
 
 When you see their inaction, do not see confusion. See the result of a calculated decision. They have chosen their profits over our future. They have chosen their power over our plates.
 
