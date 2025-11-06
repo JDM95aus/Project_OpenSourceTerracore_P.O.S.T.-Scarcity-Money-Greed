@@ -6,11 +6,11 @@ This repository contains exclusively original work developed independently betwe
 
 No copyrighted material of any third party is contained within this repository. Any claims of infringement must provide specific, line-by-line identification of allegedly infringing content.
 
-Contact: josh.mandryk95@gmail.com
+Contact: opensourceterracore@gmail.com
 Jurisdiction: I consent to the jurisdiction of the Western District of Texas, United States, for any proceedings regarding this matter.
 
 Signed electronically by: Joshua Roy Dakin Mandryk
-Date of this pre-authorization: 2025
+Date of this pre-authorization: 4th of September 2025
 GitHub Repository: https://github.com/JDM95aus/Project_OpenSourceTerracore_P.O.S.T.-Scarcity-Money-Greed
 
 ## PRE-EMPTIVE LEGAL NOTICE TO GITHUB/MICROSOFT & LAW ENFORCEMENT
