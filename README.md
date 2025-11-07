@@ -1,4 +1,4 @@
-*True sovereignty is not granted by a system; it is asserted by creating a system of your own that is so logically complete and functionally independent that the old system has no point of leverage. Joshua Roy Dakin Mandryk*
+*"True sovereignty is not granted by a system; it is asserted by creating a system of your own that is so logically complete and functionally independent that the old system has no point of leverage." Joshua Roy Dakin Mandryk*
 
 # Project OpenSourceTerraCore
 
