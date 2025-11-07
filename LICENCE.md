@@ -15,8 +15,6 @@ Commercial Use
 - Contact for commercial terms: [your email]
 
  Legal Notice
- 
-Joshua Roy Dakin Mandryk is homeless and cannot receive postal mail. All legal correspondence must be delivered via email to opensourceterracore@gmail.com. Legal proceedings initiated without using this channel are conducted in bad faith.
 
 License Scope and Originality
 
