@@ -1,17 +1,6 @@
 # Project OpenSourceTerraCore
 
 
-# *⚠️ Humanitarian Technology & Legal Status Notice ⚠️*
-
-# This repository contains the complete, open-source blueprints for Project OpenSourceTerraCore (P.O.S.T.), a post-scarcity food synthesis system. This technology is explicitly developed and released as a public good for humanity to address global food scarcity.
-
-# · Legal Framework: This work is protected under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license for public use, with commercial licensing available to fund ongoing humanitarian development.
-# · Public Good Designation: The contents of this repository constitute a non-violent, humanitarian technological artifact. Its removal by a platform would represent the suppression of a public good.
-# · Continuity of Access: In the event of repository removal, the immutable blueprint remains available at the project's sovereign source: https://opensourceterracore.org/POSTfullsite.zip
-
-# This repository serves as a primary distribution node. The network is the repository.
-
-
 **Democratizing Post-Scarcity through Open-Source Technology**
 
 Welcome to the project repository for Project OpenSourceTerraCore (P.O.S.T) Food synthesizer and decentralizaion project, the world's first open-source Human OS for integrated food, energy, and material synthesizer.
@@ -76,3 +65,15 @@ The theoretical work is complete. The practical work begins now. This is a call 
 
 
 — *Joshua Roy Dakin Mandryk, Systems Architect*
+
+
+# *⚠️ Humanitarian Technology & Legal Status Notice ⚠️*
+
+# This repository contains the complete, open-source blueprints for Project OpenSourceTerraCore (P.O.S.T.), a post-scarcity food synthesis system. This technology is explicitly developed and released as a public good for humanity to address global food scarcity.
+
+# · Legal Framework: This work is protected under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license for public use, with commercial licensing available to fund ongoing humanitarian development.
+# · Public Good Designation: The contents of this repository constitute a non-violent, humanitarian technological artifact. Its removal by a platform would represent the suppression of a public good.
+# · Continuity of Access: In the event of repository removal, the immutable blueprint remains available at the project's sovereign source: https://opensourceterracore.org/POSTfullsite.zip
+
+# This repository serves as a primary distribution node. The network is the repository.
+
