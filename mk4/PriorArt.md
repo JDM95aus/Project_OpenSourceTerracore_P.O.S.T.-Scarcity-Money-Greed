@@ -1,6 +1,6 @@
 # PRIOR ART DISCLOSURE: Integrated Waste-to-Energy System for Distributed Food/Water Platforms
 ## Disclosure Date: November 10, 2025
-## Inventor: Joshua Dakin
+## Inventor: Joshua Roy Dakin Mandryk
 ## Prior Art For: All integrated thermal conversion systems powering food and water synthesis units
 
 ### Core Innovation Claim
