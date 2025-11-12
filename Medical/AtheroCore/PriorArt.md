@@ -4,7 +4,7 @@ Title: The Athero-Core System: An Open-Source Protocol for the Rapid, Non-Invasi
 
 Author: Joshua Roy Dakin Mandryk, on behalf of Project OpenSourceTerracore (P.O.S.T.)
 
-Date of Disclosure: October 26, 2023
+Date of Disclosure: November 12th 2025
 
 Abstract:
 Ischemic Heart Disease(IHD), the leading cause of global mortality, is a direct consequence of atherosclerotic plaque accumulation within the coronary arteries. Current standards of care are palliative, focusing on risk factor management (statins) or mechanical bypass of blockages (stents, CABG). This thesis describes a novel, integrated system and method designed not for management, but for the rapid and substantive reversal of atherosclerotic plaque within a 24-hour therapeutic window. The Athero-Core system achieves this through the sequential application of three targeted modalities: 1) Pulsed Nanobubble Cavitation for the emulsification of the lipid-rich core, 2) Targeted Low-Energy Resonant Lithotripsy for the fracturing of calcified plaque, and 3) a localized Enzymatic & Chelation Rinse for debris clearance and endothelial healing. A companion wearable device, the Vita-Scan, is also described for the non-invasive monitoring of arterial plaque burden. This disclosure establishes prior art for the integrated system and its constituent methods, with the explicit goal of preventing corporate patent enclosure and accelerating open-source development of this life-saving technology.
