@@ -12,7 +12,7 @@ Commercial Use
 - Requires separate commercial license
 - Includes manufacturing, distribution, and commercial integration rights
 - Royalty structure and terms outlined in commercial agreement
-- Contact for commercial terms: [your email]
+- Contact for commercial terms: opensourceterracore@gmail.com 
 
  Legal Notice
 
